@@ -1,7 +1,6 @@
-# Fax-REST-API
-This is the Fax REST API documentation for Fax.to Fax API
+<a href="#"><img width="15px" height="15px" src="https://image.flaticon.com/icons/svg/1/1453.svg" /> <a href="./../../../README.md#2-fax-cost-api"> Go back</a></a>
 
-## Fax Cost API Reference
+<h1 align="center">Fax Cost API Reference</h1>
 
 This defines the Fax Cost API:
 

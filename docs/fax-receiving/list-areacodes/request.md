@@ -1,7 +1,6 @@
-# Fax-REST-API
-This is the Fax REST API documentation for Fax.to Fax API
+<a href="#"><img width="15px" height="15px" src="https://image.flaticon.com/icons/svg/1/1453.svg" /> <a href="./../../../README.md#7-list-area-codes"> Go back</a></a>
 
-## List Area Codes API Reference
+<h1 align="center">List Area Codes API Reference</h1>
 
 This defines the List Area Codes API:
 

@@ -1,5 +1,6 @@
-# Fax-REST-API
-This is the Fax REST API documentation for Fax.to Fax API
+﻿<h1 align="center">Fax-REST-API</h1>
+<p align="center">This is the Fax REST API documentation for Fax.to Fax API</p>
+<br>
 
 # USER MANAGEMENT
 
@@ -7,7 +8,7 @@ This is the Fax REST API documentation for Fax.to Fax API
 
 You can use the User Register API to register a user
 
-1. Create a [request](/docs/user-management/user-register/request.md) and register a user
+1. Create a <a href='/docs/user-management/user-register/request.md' id='user-register-request' class='anchor' aria-hidden='true'>request</a> and register a user
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -85,7 +86,7 @@ puts response
 
 You can use the User Login API to return the api key of the user
 
-1. Create a [request](/docs/user-management/user-login/request.md) and log on to a user account
+1. Create a <a href='/docs/user-management/user-login/request.md' id='user-login-request' class='anchor' aria-hidden='true'>request</a> and log on to a user account
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -163,7 +164,7 @@ puts response
 
 You can use the Sub User API to create a subuser
 
-1. Create a [request](/docs/user-management/sub-user/request.md) and create a subuser
+1. Create a <a href='/docs/user-management/sub-user/request.md' id='sub-user-request' class='anchor' aria-hidden='true'>request</a> and create a subuser
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -241,7 +242,7 @@ puts response
 
 To use the Cash Balance API:
 
-1. Create a [request](/docs/user-management/cash-balance/request.md) and get the cash balance:
+1. Create a <a href='/docs/user-management/cash-balance/request.md' id='cash-balance-request' class='anchor' aria-hidden='true'>request</a> and get the cash balance:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -327,7 +328,7 @@ You use the FAX API to send fax in any fax numbers anywhere in the world. The wo
 
 #### To use the Fax API:
 
-1. Create a [request](/docs/fax-sending/send-fax/api-reference.md#request) and send the fax:
+1. Create a <a href='/docs/fax-sending/send-fax/api-reference.md#request' id='send-fax-request' class='anchor' aria-hidden='true'>request</a> and send the fax:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -596,7 +597,7 @@ end
 
 To use the Fax Cost API:
 
-1. Create a [request](/docs/fax-sending/fax-cost/request.md) and get the fax cost:
+1. Create a <a href='/docs/fax-sending/fax-cost/request.md' id='fax-cost-request' class='anchor' aria-hidden='true'>request</a> and get the fax cost:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -669,7 +670,7 @@ puts response
 
 To use the Fax Status API:
 
-1. Create a [request](/docs/fax-sending/fax-status/request.md) and get the fax status:
+1. Create a <a href='/docs/fax-sending/fax-status/request.md' id='fax-status-request' class='anchor' aria-hidden='true'>request</a> and get the fax status:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -741,7 +742,7 @@ puts response
 
 To use the Fax History API:
 
-1. Create a [request](/docs/fax-sending/fax-history/request.md) and get the fax history:
+1. Create a <a href='/docs/fax-sending/fax-history/request.md' id='fax-history-request' class='anchor' aria-hidden='true'>request</a> and get the fax history:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -827,7 +828,7 @@ You use the Upload File API to upload remote file or local file:
 
 ### Upload Remote File
 
-1. Create a [request](/docs/fax-sending/upload-file/request-remote.md) and upload a file:
+1. Create a <a href='/docs/fax-sending/upload-file/request-remote.md' id='upload-remote-request' class='anchor' aria-hidden='true'>request</a> and upload a file:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -922,7 +923,7 @@ puts response
 
 ### Upload Local File
 
-1. Create a [request](/docs/fax-sending/upload-file/request-local.md) and upload a file:
+1. Create a <a href='/docs/fax-sending/upload-file/request-local.md' id='upload-local-request' class='anchor' aria-hidden='true'>request</a> and upload a file:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1019,9 +1020,7 @@ puts response
 
 You use the Clean File API to clean the document:
 
-### Upload Remote File
-
-1. Create a [request](/docs/fax-sending/file-clean/request-remote.md) and clean the file:
+1. Create a <a href='/docs/fax-sending/file-clean/request.md' id='file-clean-request' class='anchor' aria-hidden='true'>request</a> and clean the file:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1107,7 +1106,7 @@ puts response
 
 You use the Preview Generate File API to generate preview of the document:
 
-1. Create a [request](/docs/fax-sending/file-preview/request.md) generate preview of the file:
+1. Create a <a href='/docs/fax-sending/file-preview/request.md' id='file-preview-request' class='anchor' aria-hidden='true'>request</a> generate preview of the file:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1178,7 +1177,7 @@ puts response
 
 To use the Get Files API:
 
-1. Create a [request](/docs/fax-sending/get-files/request.md) and get list of files:
+1. Create a <a href='/docs/fax-sending/get-files/request.md' id='get-files-request' class='anchor' aria-hidden='true'>request</a> and get list of files:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1255,7 +1254,7 @@ puts response
 
 To use the Delete Files API:
 
-1. Create a [request](/docs/fax-sending/delete-files/request.md) and delete specific file:
+1. Create a <a href='/docs/fax-sending/delete-files/request.md' id='delete-files-request' class='anchor' aria-hidden='true'>request</a> and delete specific file:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1328,7 +1327,7 @@ puts response
 
 To use the Provision Numbers API:
 
-1. Create a [request](/docs/fax-receiving/provision-numbers/request.md) and provision a fax number:
+1. Create a <a href='/docs/fax-receiving/provision-numbers/request.md' id='provision-numbers-request' class='anchor' aria-hidden='true'>request</a> and provision a fax number:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1415,7 +1414,7 @@ List Numbers is a method related to your own inventory. This method allows you t
 
 To use the List Numbers API:
 
-1. Create a [request](/docs/fax-receiving/list-numbers/request.md) and get list of numbers:
+1. Create a <a href='/docs/fax-receiving/list-numbers/request.md' id='list-numbers-request' class='anchor' aria-hidden='true'>request</a> and get list of numbers:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1525,7 +1524,7 @@ puts response
 
 List Incoming Faxes is a method that allows you to retrieve the list of incoming faxes
 
-1. Create a [request](/docs/fax-receiving/list-incoming-faxes/request.md) and get list of incoming faxes:
+1. Create a <a href='/docs/fax-receiving/list-incoming-faxes/request.md' id='incoming-faxes-request' class='anchor' aria-hidden='true'>request</a> and get list of incoming faxes:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1643,7 +1642,7 @@ puts response
 
 This method allows you to retrieve the list of incoming faxes for a specific recipient.
 
-1. Create a [request](/docs/fax-receiving/list-faxes-recipient/request.md) and get list of faxes for a specific recipient:
+1. Create a <a href='/docs/fax-receiving/list-faxes-recipient/request.md' id='recipient-faxes-request' class='anchor' aria-hidden='true'>request</a> and get list of faxes for a specific recipient:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1763,7 +1762,7 @@ The list Countries operation allows you to search for countries available in the
 
 To use the List Countries API:
 
-1. Create a [request](/docs/fax-sending/list-countries/request.md) and get list of countries:
+1. Create a <a href='/docs/fax-receiving/list-countries/request.md' id='list-countries-request' class='anchor' aria-hidden='true'>request</a> and get list of countries:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1850,7 +1849,7 @@ The List States operation allows you to search for states of the given country a
 
 To use the List States API:
 
-1. Create a [request](/docs/fax-sending/list-states/request.md) and get list of states:
+1. Create a <a href='/docs/fax-receiving/list-states/request.md' id='list-states-request' class='anchor' aria-hidden='true'>request</a> and get list of states:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -1935,7 +1934,7 @@ The List Area Codes operation allows you to search for countries available in th
 
 To use the List Area Codes API:
 
-1. Create a [request](/docs/fax-sending/list-areacodes/request.md) and get list of countries:
+1. Create a <a href='/docs/fax-receiving/list-areacodes/request.md' id='list-areacodes-request' class='anchor' aria-hidden='true'>request</a> and get list of countries:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 
@@ -2020,7 +2019,7 @@ List DID Groups is a method related to Fax.to’s inventory. It allows you to re
 
 To use the List DID Groups API:
 
-1. Create a [request](/docs/fax-sending/list-did-groups/request.md) and get list of DID groups:
+1. Create a <a href='/docs/fax-receiving/list-did-groups/request.md' id='list-didgroups-request' class='anchor' aria-hidden='true'>request</a> and get list of DID groups:
 
 <ul><details><summary><strong>cURL</strong></summary><p>
 

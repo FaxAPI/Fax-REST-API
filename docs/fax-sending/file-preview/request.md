@@ -1,7 +1,6 @@
-# Fax-REST-API
-This is the Fax REST API documentation for Fax.to Fax API
+<a href="#"><img width="15px" height="15px" src="https://image.flaticon.com/icons/svg/1/1453.svg" /> <a href="./../../../README.md#7-preview-generate-file-api"> Go back</a></a>
 
-## File Preview Generate API Reference
+<h1 align="center">File Preview Generate API Reference</h1>
 
 This defines to generate the preview of the file API:
 

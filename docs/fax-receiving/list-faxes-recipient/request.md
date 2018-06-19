@@ -1,7 +1,6 @@
-# Fax-REST-API
-This is the Fax REST API documentation for Fax.to Fax API
+<a href="#"><img width="15px" height="15px" src="https://image.flaticon.com/icons/svg/1/1453.svg" /> <a href="./../../../README.md#4-list-faxes-for-a-recipient"> Go back</a></a>
 
-## Specific Recipient Faxes API Reference
+<h1 align="center">Specific Recipient Faxes API Reference</h1>
 
 This defines the incoming faxes for specific recipient API:
 

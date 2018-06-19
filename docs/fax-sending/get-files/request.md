@@ -1,7 +1,6 @@
-# Fax-REST-API
-This is the Fax REST API documentation for Fax.to Fax API
+<a href="#"><img width="15px" height="15px" src="https://image.flaticon.com/icons/svg/1/1453.svg" /> <a href="./../../../README.md#8-get-files-api"> Go back</a></a>
 
-## Get Files API Reference
+<h1 align="center">Get Files API Reference</h1>
 
 This defines the Get Files API:
 
