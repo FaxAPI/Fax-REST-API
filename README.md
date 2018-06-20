@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Fax-REST-API</h1>
-<p align="center">This is the Fax REST API documentation for Fax.to Fax API</p>
+<p align="center">This is the Fax REST API documentation for <a href='https://fax.to/fax-api/v2' class='anchor' aria-hidden='true'>Fax.to Fax API</a></p>
 <br>
 
 # USER MANAGEMENT
